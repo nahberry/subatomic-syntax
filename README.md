@@ -1,18 +1,18 @@
-![logo](https://github.com/nahberry/subatomic-syntax/blob/main/resources/Logo/syntax-blue.jpg)
+![logo](https://github.com/nahberry/hosted-resources/blob/main/subatomic-resources/syntax-blue.jpg)
 
 # Subatomic Syntax
 
 > Simple :: Retro :: Bold syntax theme for Atom.
 
-![simple-bold](https://github.com/nahberry/subatomic-syntax/blob/main/resources/Graphics/simpleandbold.jpg)
+![simple-bold](https://github.com/nahberry/hosted-resources/blob/main/subatomic-resources/simpleandbold.jpg)
 
 ### Colors were selected for simplicity, feel, and design.  
 
-![retro](https://github.com/nahberry/subatomic-syntax/blob/main/resources/Graphics/retro.jpg)
+![retro](https://github.com/nahberry/hosted-resources/blob/main/subatomic-resources/retro.jpg)
 
 ### The goal was to get that retro feel but still remain a modern highlighting scheme.
 
-![colors](https://github.com/nahberry/subatomic-syntax/blob/main/resources/Graphics/colorselection.jpg)
+![colors](https://github.com/nahberry/hosted-resources/blob/main/subatomic-resources/colorselection.jpg)
 
 ### Colors will continue to be adjusted as they're tested across different monitors.
 
