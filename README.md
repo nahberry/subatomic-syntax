@@ -16,22 +16,22 @@
 
 ### Colors will continue to be adjusted as they're tested across different monitors.
 
-#### Current colors:
+#### Current colors:  
 
-> Grays
+> Grays  
 
-* Very Light Gray - #dddada
-* Light Gray -  #848282
-* Gray -  #8e8e8e
-* Dark Gray - #484848
-* Very Dark Gray - #151414
+* Very Light Gray - #dddada  
+* Light Gray -  #848282  
+* Gray -  #8e8e8e  
+* Dark Gray - #484848  
+* Very Dark Gray - #151414  
 
-> Hues
+> Hues  
 
-* Cyan - #08eee4
-* Blue - #37f4ff
-* Purple - #ff7ed6
-* Green - #b8fd9a
-* Red - #fb5454
-* Orange - #ffa762
-* Yellow - #fbf47a
+* Cyan - #08eee4  
+* Blue - #37f4ff  
+* Purple - #ff7ed6  
+* Green - #b8fd9a  
+* Red - #fb5454  
+* Orange - #ffa762  
+* Yellow - #fbf47a  
