@@ -1,4 +1,4 @@
-## 0.1.0 - First Release
+## 1.0.0 - First Release
 
 #### 3/17/2021
 * Setup syntax colors  
