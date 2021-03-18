@@ -1,8 +1,8 @@
 {
   "name": "subatomic-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
-  "description": "Simple syntax theme for Atom.",
+  "version": "0.0.0",
+  "description": "Simple, bold, and retro syntax theme for Atom.",
   "keywords": [
     "syntax",
     "theme"
