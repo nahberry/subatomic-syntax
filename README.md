@@ -2,4 +2,4 @@
 
 > Simple syntax theme for Atom.
 
-![screenshot](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![screenshot](https://github.com/nahberry/subatomic-syntax/blob/main/resources/subatomic-screenshot.JPG)
