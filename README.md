@@ -4,6 +4,8 @@
 
 > Simple :: Retro :: Bold syntax theme for Atom.
 
+[Install from Atom!](https://atom.io/themes/subatomic-syntax)
+
 ![simple-bold](https://github.com/nahberry/hosted-resources/blob/main/subatomic-resources/simpleandbold.jpg)
 
 ### Colors were selected for simplicity, feel, and design.  
