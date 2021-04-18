@@ -1,7 +1,7 @@
 {
   "name": "subatomic-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "private": true,
   "description": "Simple, bold, and retro syntax theme for Atom",
   "repository": "https://github.com/nahberry/subatomic-syntax",
